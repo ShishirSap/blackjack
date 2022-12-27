@@ -1,0 +1,31 @@
+body{
+    background-color:green;
+    text-align:center;
+    color:white;
+    margin:2px;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+    font-size: 20px;
+    color:goldenrod;
+}
+#message-el{
+    font-style:italic;
+    font-size:larger;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+button{
+    background:goldenrod;
+    font-size:15px;
+    font-weight:bold;
+    width:150px;
+    height:40px;
+    color:#016f32;
+    border:none;
+    border-radius:2px;
+    padding:5px,0px,5px,0px;
+    margin:2px;
+
+
+}
